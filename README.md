@@ -3,9 +3,14 @@
 Projects for the Course:  
 [**Operating Systems** (6th Semester ECE-NTUA)](https://www.ece.ntua.gr/gr/undergraduate/courses/3136)
 
+| AM      | Name                    |
+|---------|-------------------------|
+| el20034 | Μαρντιροσιάν Φίλιππος    |
+| el20109 | Θεοδοσίου Γεώργιος      |
+
 ## Assignments
 
-[Problem Statements for Lab Exercises](https://github.com/philmard/os/tree/main/docs2023)
+[Problem Statements for Lab Exercises](https://github.com/philmard/os/tree/master/docs2023)
 
 ## Course Content
 
